@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import 'https://fonts.googleapis.com/css?family=Prompt|Roboto|Ubuntu+Mono';
+@import 'https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans|Ubuntu+Mono';
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
 /*********************************************
  * GLOBAL STYLES
@@ -39,7 +39,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #eee;
-  font-family: "Roboto", Impact, sans-serif;
+  font-family: "Work Sans", Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: -0.03em;
@@ -48,14 +48,15 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-             font-family: "Prompt", Impact, sans-serif;                                   
-             font-size: 3.77em; }
+  font-family: 'Playfair Display', serif;
+  font-size: 4.5em;
+}
 
 .reveal h2 {
-  font-size: 2.11em; }
+  font-size: 3.5em; }
 
 .reveal h3 {
-  font-size: 1.55em; }
+  font-size: 2em; }
 
 .reveal h4 {
   font-size: 1em; }
