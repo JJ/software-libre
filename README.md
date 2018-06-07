@@ -10,3 +10,5 @@ diferentes lugares.
 *
   [Charla para #TechSum de Microsoft, *El papel de la universidad en la vertebración del mundo libre y abierto*](https://jj.github.io/software-libre/ms.html).
   
+*
+  [Charla para LibreCon, *Ciencia abierta, datos abiertos, software libre y transparencia*](https://jj.github.io/software-libre/librecon.html).
